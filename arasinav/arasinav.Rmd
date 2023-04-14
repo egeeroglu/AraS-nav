@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Hava Kirliliğini Tetikleyen Sektörler"
 author: 
-  - İsim Soyisim[^1]
+  - Ege Eroğlu[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,26 +32,15 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 19080214, [Github Repo](https://github.com/egeeroglu/AraSinav)
 
-# Vize Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
 
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+
+Türkiye'de hava kirliliğine neden olan sektörleri belirleyip, bu sektörlerin hangi oranda ve hangi emisyon çeşitleriyle hava kirliliğine sebep olduklarını analiz edip, sorunlara çözüm üretmektir.
 
 ## Literatür 
 Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
